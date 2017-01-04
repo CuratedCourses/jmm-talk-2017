@@ -108,7 +108,7 @@
 \clearbackgroundpicture
 }
 
-\newcommand{\encouragement}[1]{%
+\newcommand{\giantmessage}[1]{%
 \setbackgroundgreen
 \begin{frame}[nofills]
 \Huge
