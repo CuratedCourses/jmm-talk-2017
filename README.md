@@ -1,23 +1,28 @@
-# MAA Session on The Advancement of Open Educational Resources, II
+# MAA Session on The Advancement of Open Educational Resources, I 
 
-Saturday January 7, 2017, 1:00 p.m.-3:55 p.m.
+Friday January 12, 2018, 8:00 a.m.-10:55 a.m.
 
-A702, Atrium Level, Marriott Marquis
+Room 31C, Upper Level, San Diego Convention Center
 
-Organizers:
+Organizer:
 
 - Benjamin Atchison, Framingham State University batchison@framingham.edu
-- Jeremy Russell, The College of New Jersey
 
-##  Find, Review, Promote: CuratedCourses aligns OER to the course syllabus.
+## Using CuratedCourses to match OER to other OER.
 
-* Jim Fowler*, The Ohio State University
-* David Farmer, American Institute of Mathematics
+* Petra Bonfert-Taylor, Dartmouth 
+* Sarah Eichhorn, University of Texas at Austin
+* David Farmer*, American Institute of Mathematics 
+* Jim Fowler, The Ohio State University
 
-Finding online math curricular resources that are readily available, field-tested in a variety of settings, and known to be
-high quality is a challenge. CuratedCourses is an NSF-funded IUSE project to address that challenge.
-CuratedCourses is an open platform where metadata is associated with educational content on the web, where experts
-review the educational content, and where instructors can then find the vetted content aligned with popular textbooks
-and course calendars. Challenges are locating high-quality content, developing rubrics for evaluating content, and creating
-standard formats for tagging topics and learning outcomes. GitHub and other open technologies are used to address these
-challenges. (Received August 15, 2016)
+Instructors may want to "flip" their classroom with open educational
+resources (OER), but finding resources that are field-tested in a
+variety of settings and known to be high-quality is a challenge. The
+CuratedCourses platform addresses this challenge by associating rich,
+curated metadata with OER. More specifically, by aligning open content
+to a carefully designed a tag hierarchy for linear algebra,
+CuratedCourses assists linear algebra instructors in identifying
+high-quality related resources. Students see related resources
+automatically appear in the margin of their OER textbook. This
+material is based upon work supported by the National Science
+Foundation under DUE-1505246. (Received September 26, 2017)
